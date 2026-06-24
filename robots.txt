@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /thank-you
+Disallow: /lp/
+
+Sitemap: https://www.davidsolutionsfl.com/sitemap.xml
